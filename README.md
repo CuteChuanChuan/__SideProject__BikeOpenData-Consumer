@@ -1,7 +1,7 @@
 # Bike OpenData - Consumer
 
 ## Overview
-This repo includes a consumer which gets messages from Kafka and insert into Postgres.
+This repo includes a consumer which gets messages from Kafka and inserts into Postgres.
 
 ## Deployment
 1. create fat jar (`sbt clean assembly`)
